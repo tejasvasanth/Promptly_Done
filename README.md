@@ -2,7 +2,7 @@
 
 Go from idea to complete codebase in minutes. An intelligent tool that optimizes your prompt and generates production-ready code.
 
-![AI CodeGenius Demo](https://via.placeholder.com/800x400.png?text=App+Demo+GIF+Here)
+
 
 ## 🤔 About The Project
 
